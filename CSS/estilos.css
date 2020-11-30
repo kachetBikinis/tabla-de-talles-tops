@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Texturina:wght@200&display=swap');
+
+
+body {margin:0;
+       padding: 0;
+         } 
+
+   
+
+
+ .container{ margin-left: 40px;  }
+
+ 
+
+ .titulo  {margin-top: 30px; padding:10px; font-size: 36px; font-family: 'Roboto', sans-serif;  
+
+ }
+
+.imagen-2{ width: 450px; 
+           display:  flex;
+           margin-top: 20px; margin-bottom: 40px;
+            background: white;
+          color: #f573ad;    flex-direction: row; flex-wrap: wrap;
+          ;}
+
+ /* -----------------------------------*/
+
+
+ 
+
+ 
+ 
+.box_1 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; }
+
+.epigrafe-1 {margin-top: 1px; margin-left:  8px ; font-size: 22px;color: black;}
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_2 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; }
+
+.epigrafe-2 {margin-top: 1px; margin-left: 8px ;font-size: 22px; color: black; }
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_3 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; } 
+
+.epigrafe-3 {margin-top: 1px; margin-left: 8px ;font-size: 22px; color: black;}
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_4 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; }
+
+.epigrafe-4 {margin-top: 1px; margin-left: 8px ;font-size: 22px; color: black;}
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_5 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; }
+
+.epigrafe-5 {margin-top: 1px; margin-left: 8px ;font-size: 22px; color: black;}
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_6 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; } 
+
+.epigrafe-6 {margin-top: 1px; margin-left: 8px ; font-size: 22px;color: black;}
+
+
+ 
+/* ------------------------------------------------*/
+ 
+
+
+ 
+
+.box_7 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; }
+
+.epigrafe-7 {margin-top: 1px; margin-left: 8px ;font-size: 22px; color: black;}
+
+
+/* -----------------------------------------------------*/
+
+
+ 
+
+.box_8 img{ width: 50px; height: 50px; margin: 5px 42px; object-fit: cover; border: #f573ad 2px solid; border-radius: 50%; } 
+
+.epigrafe-8 {margin-top: 1px; margin-left: 8px ; font-size: 22px;color: black;}
+
+
+ 
+/* ------------------------------------------------*/
+
+
+
+
+.bando-recto-1 {position: relative;}
